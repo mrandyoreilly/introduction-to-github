@@ -1,1 +1,8 @@
-La de da, gonna create a conflict
+
+# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈
